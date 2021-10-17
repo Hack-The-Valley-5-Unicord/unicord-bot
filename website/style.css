@@ -1,0 +1,38 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-color: rgb(74, 45, 202);
+}
+h1 { 
+    color: white;
+    font-size: 250%;
+    text-align: center;
+}
+h3 {
+    color: white;
+    font-size: 150%;
+    text-align: center;
+}
+li {
+    display: inline;
+    padding: 7%;
+}
+a {
+    color: white;
+    font-weight: bold;
+}
+.column {
+    float: left;
+    width: 50%;
+}
+p {
+    font-size: 50%;
+}
+
+.URL {
+    color: white;
+    font-size: 150%;
+    text-align: center;
+    border-style: solid;
+    width: 50%;
+}
+
